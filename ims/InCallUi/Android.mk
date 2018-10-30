@@ -13,6 +13,4 @@ LOCAL_CERTIFICATE := platform
 
 LOCAL_MODULE_OWNER := qti
 
-LOCAL_SDK_VERSION := current
-
 include $(BUILD_PACKAGE)

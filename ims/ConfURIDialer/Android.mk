@@ -11,6 +11,4 @@ LOCAL_PRIVATE_PLATFORM_APIS := true
 
 LOCAL_CERTIFICATE := platform
 
-LOCAL_SDK_VERSION := current
-
 include $(BUILD_PACKAGE)
